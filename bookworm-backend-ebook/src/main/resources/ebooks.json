@@ -1,0 +1,120 @@
+[{
+  "booktitle": "Yes My Dear",
+  "category": "Poem",
+  "subcategory": "Poem",
+  "price": 90,
+  "publisher": "Sid",
+  "author": "Stafford",
+  "description": "Joan Morrissey was considered Newfoundlands First Lady of Song and was one of the greatest entertainers of her generation. During her career she was involved in every aspect of show business and whether it was a singer, actress, or talk show host, she was well liked by her colleagues and by the Newfoundland public. -- In the early sixties people became familiar with her voice on local radio programs on CJON, VOCM, and CBC. Joan was also a frequent guest on CBC televisions All Around the Circle and was host of CJON televisions \"Talent Showcase\" and Newfoundland This A.M. seen each weekday. Soon Joan became established as one of the leading local performers of country and western songs. Later on she sang and hosted on such TV shows as Variety Showcase and Country Sound and in a number of Christmas specials. She was also in demand for appearing in nightclubs around the island and with her brand of country and western along with traditional Newfoundland singing, she regularly filled them. She enjoyed to perform comical and parody songs, which poked fun at everyday life in Newfoundland. Some of these songs she wrote herself while others were written by Tom Cahill, some of those include the famous CN Bus, The Mobile Goat and Thank God were Surrounded by Water ",
+  "availability": "true",
+  "actions": [
+    "buy",
+    "rent",
+    "lend"
+  ]
+},{
+  "booktitle": "Zanzavart",
+  "category": "History",
+  "subcategory": "History",
+  "price": 50,
+  "publisher": "Ramcharan",
+  "author": "Ninad Bedekar",
+  "description": "अंधारातील इतिहासातील उजेडात आणणारे निनाद बेडेकर यांचे हे लेखन. विस्मृतीत गेलेला मराठी पराक्रमाचा हा इतिहास आहे. मराठी फौजांनी महाराष्ट्राबाहेर केलेल्या अतुलनीय पराक्रमाची ही गाथा आहे.\n\nजयपूरला धडक, सूरत मार्गावरील चौक्या गुजरातेत मराठे, ग्वाल्हेर काबीज, उज्जैन, आमझेरा आदी प्रकरणांमधून तो उलगडत जातो. लाहोर, पेशावर, दिल्ली, जबलपूर, विजापूर, गुलबर्गा, झांशी, जुनागढ, कोटा आदी ठिकाणी मराठ्यांनी गाजवलेल्या पराक्रमाची माहिती मिळते.\n\nनेमक्या प्रदेशाची माहिती व्हावी, या उद्देशाने आवश्यक त्या ठिकाणी अंतरांसह नकाशांचा वापर करण्यात आला आहे. मुघल बादशहा आणि महादजी शिंदे यांच्या दरम्यानची रोमांचकारी कहाणीही वाचायला मिळते.",
+  "availability": "true",
+  "actions": [
+    "buy",
+    "lend"
+  ]
+},{
+  "booktitle": "Atank",
+  "category": "Current scenerio",
+  "subcategory": "Current scenerio",
+  "price": 75,
+  "publisher": "Vilas Sarang",
+  "author": "Narendra Kohli",
+  "description": "अंधारातील इतिहासातील उजेडात आणणारे निनाद बेडेकर यांचे हे लेखन. विस्मृतीत गेलेला मराठी पराक्रमाचा हा इतिहास आहे. मराठी फौजांनी महाराष्ट्राबाहेर केलेल्या अतुलनीय पराक्रमाची ही गाथा आहे.\n\nजयपूरला धडक, सूरत मार्गावरील चौक्या गुजरातेत मराठे, ग्वाल्हेर काबीज, उज्जैन, आमझेरा आदी प्रकरणांमधून तो उलगडत जातो. लाहोर, पेशावर, दिल्ली, जबलपूर, विजापूर, गुलबर्गा, झांशी, जुनागढ, कोटा आदी ठिकाणी मराठ्यांनी गाजवलेल्या पराक्रमाची माहिती मिळते.\n\nनेमक्या प्रदेशाची माहिती व्हावी, या उद्देशाने आवश्यक त्या ठिकाणी अंतरांसह नकाशांचा वापर करण्यात आला आहे. मुघल बादशहा आणि महादजी शिंदे यांच्या दरम्यानची रोमांचकारी कहाणीही वाचायला मिळते.",
+  "availability": "true",
+  "actions": [
+    "buy",
+    "rent"
+  ]
+},{
+  "booktitle": "Investing In Mutual Funds",
+  "category": "Investing",
+  "subcategory": "Investing",
+  "price": 150,
+  "publisher": "Atlantic Publisher",
+  "author": "Christine Benz",
+  "description": "Written in a straightforward and accessible style, this reliable resource examines the fundamentals of mutual fund investing in today's turbulent market environment and offers timeless advice in building an investment portfolio. Along the way, Bogle shows you how simplicity and common sense invariably trump costly complexity, and how a low cost, broadly diversified portfolio is virtually assured of outperforming the vast majority of Wall Street professionals over the long-term.\n\nWritten by respected mutual fund industry legend John C. Bogle\nDiscusses the timeless fundamentals of investing that apply in any type of market\nReflects on the structural and regulatory changes in the mutual fund industry\nOther titles by Bogle: The Little Book of Common Sense Investing and Enough.\nSecuring your financial future has never seemed more difficult, but you'll be a better investor for having read the Second Edition of Common Sense on Mutual Funds.",
+  "availability": "true",
+  "actions": [
+    "buy",
+    "rent"
+  ]
+},{
+  "booktitle": "Dhami",
+  "category": "Novel",
+  "subcategory": "Novel",
+  "price": 50,
+  "publisher": "Atlantic Publisher",
+  "author": "Vijaya yadav",
+  "description": "परभणीची विजया यादव...एक दिवस सृजन ची जी “न लिहिलेली पत्रे” हि चळवळ आहे..तिथे आली. मला सुरुवातीला वाटले अनेक हौशी लेखक असतात..त्यातलीच हि एक असेल. काही दिवसांनी उत्साह थंडावेल आणि मग दिसेनाशी होईल. पण माझ्या अनेक गैरसमजांपैकी हा एक होता आणि ह्याचा मला खप आनंद होतो आहे. अफाट वाचन, वाचलेले पचवायची ताकद, अत्यंत मित भाषी पण एकदा का लेखणी हातात घेतली कि एक वेगळीच जाणवणारी विजया यादव तुमच्या सामोर सादर करताना सृजन ड्रीम्स ला खूप आनंद होत आहे. ढमी हे तिच्या डायरीचे नाव आहे. एरवी अत्यंत कमी बोलणारी विजया डायरीशी मात्र मनमुराद संवाद साधते. विषयाचे बंधन नाही....एक निशब्द श्रोता आपण अत्यंत विश्वासू...तुम्हाला सुद्धा मान्य होईल....डायरी एवढा विश्वासू मित्र दुसरा असतच नाही. कांदे पोह्यांच्या कार्यक्रमा पासून ढमीशी संवाद सुरु होतो...आणि मग विजया जीवनाच्या विविध अंगांना स्पर्श करते आणि तसे करता करता काही अप्रतिम भाष्य सुद्धा करते...उदाहरण द्यायचे झाले तर...हे वाचा... \"\"माणसाला रहायला जागा जास्त लागत नाही. प्रेम असले तर सारे पुरते....पूर्वी दोन रूमचा संसार नि दुसऱ्याच्या घराशी जोडणारी एक सामाईक भिंत हुंदक्याचा आवाज जरी गेला शेजारी कि शेजारच्या नागुरे काकू हजर ......का काय झालं हो कशाला रडता ? सगळं काही समजून उमजून घ्यायच्या ! ना जातीच्या ना पातीच्या. आणखी एक गोष्ट कळली “जात, धर्म माणसाचे फक्त आचरणाचे वेगळे मार्ग”. आतला माणूस तेवढा खरा !” विजया फूड टेक्नोलॉजी ह्या विषयातील तज्ञ आहे. पुस्तकांशी तिचे अतूट नाते आहे. सृजन ला तिच्या कडून खूप अपेक्षा आहेत. तिचे लिखाण तुम्हाला निश्चित आवडेल ह्याची आम्हाला खात्री आहे",
+  "availability": "true",
+  "actions": [
+    "buy",
+    "lend"
+  ]
+},{
+  "booktitle": "Dhandola",
+  "category": "Novel",
+  "subcategory": "Novel",
+  "price": 75,
+  "publisher": "Atlantic Publisher",
+  "author": "Vikram Bhagwat",
+  "description": "परभणीची विजया यादव...एक दिवस सृजन ची जी “न लिहिलेली पत्रे” हि चळवळ आहे..तिथे आली. मला सुरुवातीला वाटले अनेक हौशी लेखक असतात..त्यातलीच हि एक असेल. काही दिवसांनी उत्साह थंडावेल आणि मग दिसेनाशी होईल. पण माझ्या अनेक गैरसमजांपैकी हा एक होता आणि ह्याचा मला खप आनंद होतो आहे. अफाट वाचन, वाचलेले पचवायची ताकद, अत्यंत मित भाषी पण एकदा का लेखणी हातात घेतली कि एक वेगळीच जाणवणारी विजया यादव तुमच्या सामोर सादर करताना सृजन ड्रीम्स ला खूप आनंद होत आहे. ढमी हे तिच्या डायरीचे नाव आहे. एरवी अत्यंत कमी बोलणारी विजया डायरीशी मात्र मनमुराद संवाद साधते. विषयाचे बंधन नाही....एक निशब्द श्रोता आपण अत्यंत विश्वासू...तुम्हाला सुद्धा मान्य होईल....डायरी एवढा विश्वासू मित्र दुसरा असतच नाही. कांदे पोह्यांच्या कार्यक्रमा पासून ढमीशी संवाद सुरु होतो...आणि मग विजया जीवनाच्या विविध अंगांना स्पर्श करते आणि तसे करता करता काही अप्रतिम भाष्य सुद्धा करते...उदाहरण द्यायचे झाले तर...हे वाचा... \"\"माणसाला रहायला जागा जास्त लागत नाही. प्रेम असले तर सारे पुरते....पूर्वी दोन रूमचा संसार नि दुसऱ्याच्या घराशी जोडणारी एक सामाईक भिंत हुंदक्याचा आवाज जरी गेला शेजारी कि शेजारच्या नागुरे काकू हजर ......का काय झालं हो कशाला रडता ? सगळं काही समजून उमजून घ्यायच्या ! ना जातीच्या ना पातीच्या. आणखी एक गोष्ट कळली “जात, धर्म माणसाचे फक्त आचरणाचे वेगळे मार्ग”. आतला माणूस तेवढा खरा !” विजया फूड टेक्नोलॉजी ह्या विषयातील तज्ञ आहे. पुस्तकांशी तिचे अतूट नाते आहे. सृजन ला तिच्या कडून खूप अपेक्षा आहेत. तिचे लिखाण तुम्हाला निश्चित आवडेल ह्याची आम्हाला खात्री आहे",
+  "availability": "true",
+  "actions": [
+    "buy",
+    "Rent",
+    "Lend"
+  ]
+},{
+  "booktitle": "The Lodger",
+  "category": "Novel",
+  "subcategory": "Novel",
+  "price": 70,
+  "publisher": "McClure's Magazine",
+  "author": "Marie Belloc Lowndes",
+  "description": "The Lodger is a novel by English author Marie Adelaide Belloc Lowndes. The short story was first published in the January, 1911[1] edition of McClure's Magazine, in 1911. Belloc Lowndes wrote a longer version of the story, which was published as a series in the Daily Telegraph in 1913 with the same name. Later that year, the novel was published in its entirety by Methuen Publishing.\n\nThe story is based on the Whitechapel murders of 1888, committed by Jack the Ripper. While some of the traits of the novel's killer has been attributed to Forbes Winslow's findings about the original murderer, Lowndes was also influenced by the Lambeth Poisoner's physical appearance.\n\nThe book tells the story of Mr. and Mrs. Bunting, owners of a failing lodging in London, who see in Mr. Sleuth, their only guest in a long time, their chance to salvage their business. As new murders happen in the surrounding neighborhoods, the couple slowly begin to suspect their lodger might be the one responsible for them.",
+  "availability": "true",
+  "actions": [
+    "buy",
+    "lend"
+  ]
+},{
+  "booktitle": "Sakal Hrudaya",
+  "category": "Spiritual",
+  "subcategory": "Spiritual",
+  "price": 70,
+  "publisher": "Bharti Mazagine",
+  "author": "Chinmay",
+  "description": "चिन्मय मांडलेकर ह्या नावाची ओळख महाराष्ट्राला करून देण्याची तशी आवश्यकता नाही. राष्ट्रीय नाट्यशाळेचा स्नातक, उत्तम दिग्दर्शक, नाटककार, ह्याशिवाय अत्यंत लोकप्रिय मालिकांचे कथा, पटकथा लेखक म्हणून सुद्धा ते खूप प्रसिद्ध आहेत. आणि तरीसुद्धा ती ओळख काही अंशी अपुरी अशी आहे, असे मला तरी वाटते. ह्याचे कारण त्यांचे स्फुटलेखन! बऱ्याच जणांना हे ठाऊक नसेलही की चिन्मय एका मासिकसाठी स्फुटलेखन करीत असत. स्फुटलेखनाची काही वैशिष्ट्ये असतात. एक तर ती आजच्या किंवा कालच्या घटनेवर भाष्य करीत असतात. म्हणजेच त्यांचे ताजेपण महत्त्वाचे असते. ते लेखन घडलेल्या घटनेवर भाष्य तर करतेच, पण त्या घटनेच्या अंतरंगात डोकावून एक वेगळा विचार वाचकांसमोर मांडण्याचा जरूर प्रयत्न करते. त्या लेखनात टीका असते, पण त्या टीकेत विखार नसतो. एक विधायक चर्चा घडवून आणण्याचा प्रयत्न अशा स्फुटलेखनात असतो. वैचारिक मंथनाचे असे स्फु टलेखन हे अधिष्ठानच असते. स्फुटलेखन करण्यासाठी लेखकांकडे खूप वेळ आणि अवधी नसतो. म्हणजेच त्याचे लक्ष चौफेर असायला हवे. त्याने सूक्ष्मपणे घडणाऱ्या घटना टिपायला हव्यात आणि मग एखाद्या निवडक घटनेवर आपले विचार नोंदवायला हवेत. तसे हे शिवधनुष्य पेलण्यासारखेच. दररोज लिहिणे किती अवघड असते हे वृत्तपत्रात जे लेखक दैनिक किंवा साप्ताहिक सदर लिहितात तेच ओळखू शकतात.\nचिन्मय मांडलेकरांनी हे शिवधनुष्य अगदी लीलया पेलले आहे. लालित्यपूर्ण भाषा, प्रसंगी वक्रोक्तींचा सुंदर वापर, कधी अगदी सहज भावनांना हात घालत, वाचकाला विश्वासात घेत आणि निर्भीडपणे आपले मत मांडत ते ह्या लेखांचा प्रवास करतात. विषयांचे वैविध्य, आणि वाचकाशी सरळ संवाद साधण्याची त्यांची शैली तुम्हाला खूपच आवडेल अशी आम्हाला खात्री आहे. तुम्हाला चिन्मय मांडलेकरांच्या व्यक्तिमत्त्वाच्या तशा अपरिचित असलेल्या पैलूची ओळख करून देताना ‘सृजन’ ला खूप आनंद होत आहे.",
+  "availability": "true",
+  "actions": [
+    "buy",
+    "lend"
+  ]
+},{
+  "booktitle": "The whispering woods",
+  "category": "Spirituality",
+  "subcategory": "Spirituality",
+  "price": 100,
+  "publisher": "Atlantic publisher",
+  "author": "Vijay Bhatkar",
+  "description": "Among the million stars scattered on the horizon\nof what constitutes our collective perception of our\nworld, two stand out like beacons. One shines with a\ndazzle of clarity which gets refined as our gaze gets\nsteadier while the other glows with warmth that\nbrings forth a sense of calm.\nScience is a term that encompasses the varied\nsystematic ways in which humankind has been able\nto make sense of and utilize this knowledge and\nunderstanding to embellish its existence",
+  "availability": "true",
+  "actions": [
+    "buy",
+    "rent"
+  ]
+}]
